@@ -47,3 +47,4 @@ portfolio2 = ["GOOGL", "MSFT"]
 solution = Solution()
 result = solution.intersection(portfolio1, portfolio2)
 print(result)  # Output: ["GOOGL", "MSFT"]
+
